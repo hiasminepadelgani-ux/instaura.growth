@@ -1,0 +1,13 @@
+{
+  "name": "Instaura Growth",
+  "short_name": "Instaura Growth",
+  "description": "Lead management and marketing workflow workspace",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f6f8",
+  "theme_color": "#CF1E2A",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
